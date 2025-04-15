@@ -42,6 +42,7 @@ tune their hyperparameters, and assess results through robust statistical evalua
 - `wine.html`: Main Jupyter Notebook with all results
 - `wine.ipynb`: Main Jupyter Notebook with all code and packages
 - `wine.data`: Public dataset from UCI ML repository
+- `wine.name`: The name of wines in dataset
 - `README.md`: Project overview (this file)
 
 ---
